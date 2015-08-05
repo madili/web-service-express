@@ -1,0 +1,17 @@
+{
+  "name": "zorg",
+  "version": "1.0.0",
+  "description": "App de gerencia de tarefas para repúblicas universitárias",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.1",
+    "validator": "^4.0.2"
+  }
+}

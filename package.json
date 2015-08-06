@@ -1,7 +1,7 @@
 {
   "name": "zorg",
   "version": "1.0.0",
-  "description": "App de gerencia de tarefas para repúblicas universitárias",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
